@@ -1,0 +1,3 @@
+import ejemploDocumentacion
+
+help(ejemploDocumentacion)

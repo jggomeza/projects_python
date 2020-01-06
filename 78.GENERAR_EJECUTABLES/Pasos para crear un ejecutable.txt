@@ -1,0 +1,13 @@
+Si no lo tienes instalado aun debes instalar el pyinstaller
+con es siguiente comando en la consola de windows:
+
+pip install pyinstaller
+
+y una vez instalado el pyinstaller debes ubicarte con la consola de windows en la
+carpeta donde se encuentra tu aplicación y ejecutas el siguiente comando:
+
+
+pyinstaller --windowed --onefile --icon=nombre_del_icono nombreDelArchivo.extension
+
+una vez se halla terminado de instalar tecleamos python
+y luego django.VERSION
